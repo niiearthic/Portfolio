@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "tailwindcss/utilities";
+
+@media print {
+  @page {
+    margin: 0.5in;
+  }
+  body {
+    background-color: white !important;
+  }
+}

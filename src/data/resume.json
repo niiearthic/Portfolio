@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Nikita Singh",
+    "title": "Data Analyst",
+    "summary": "I’m an entry-level professional with hands-on experience in data analysis and web development through internships. I enjoy working with data, solving problems, and finding patterns, and I’ve gained practical exposure to real-world systems and workflows.",
+    "location": "Gurugram, Haryana, India / Jaipur",
+    "email": "Nikitasingh8199@gmail.com",
+    "phone": "+919667210027",
+    "links": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/nikita-singh-z31" },
+      { "name": "GitHub", "url": "https://github.com/niiearthic" },
+      { "name": "Instagram", "url": "https://instagram.com/nii_earthic" }
+    ]
+  },
+  "skills": [
+    { "category": "Programming", "items": ["Python", "SQL"] },
+    { "category": "Data Tools", "items": ["Excel", "Power BI", "Microsoft Power BI"] },
+    { "category": "Core Skills", "items": ["Data Analysis", "Data Visualization", "Web Development"] }
+  ],
+  "experience": [
+    {
+      "company": "Rajasthan Police Headquarters (Cyber Crime Branch)",
+      "role": "Data Analyst Intern",
+      "dates": "Oct 2024 – Mar 2025",
+      "location": "Jaipur",
+      "bullets": [
+        "Analyzed cyber fraud data to support investigations.",
+        "Performed data cleaning, analysis, and reporting to improve data accuracy.",
+        "Assisted in account tracking and identified suspicious transaction patterns."
+      ]
+    },
+    {
+      "company": "N.S. Engineering Works",
+      "role": "Operations and Data coordinator",
+      "dates": "Jan 2023 – Present | Part-time (During B.Tech), Full-time (Post-graduation)",
+      "location": "",
+      "bullets": [
+        "Managed inventory, orders, & manpower data while maintaining daily records.",
+        "Improved data organization for faster access & coordinated with workers and suppliers for smooth operations."
+      ]
+    },
+    {
+      "company": "IBM CSRBOX",
+      "role": "Web Development Intern",
+      "dates": "Jun 2024 – Aug 2024",
+      "location": "Remote",
+      "bullets": []
+    },
+    {
+      "company": "Freelance | Self-Employed",
+      "role": "Data Analyst",
+      "dates": "",
+      "location": "Gurugram, Haryana, India",
+      "bullets": []
+    }
+  ],
+  "projects": [
+    {
+      "title": "Customer Purchase Behavior Analysis",
+      "stack": [],
+      "bullets": [
+        "Analyzed sales data to identify customer trends and purchasing patterns",
+        "Created visualizations to support data-driven insights"
+      ],
+      "links": []
+    },
+    {
+      "title": "Twitter Sentiment Analysis",
+      "stack": ["Python"],
+      "bullets": [
+        "Built a Python-based model to classify text sentiment",
+        "Analysed data using basic NLP techniques"
+      ],
+      "links": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Jaipur National University",
+      "degree": "B.Tech in Computer Science / Bachelor of Technology, Computer science",
+      "dates": "2025",
+      "details": "CGPA: 7.5/10"
+    },
+    {
+      "institution": "Modern Hind Convent School, Mewat (Nuh), Haryana",
+      "degree": "Schooling",
+      "dates": "2018 - 2020",
+      "details": "93% in 12th (2020) and 87.6% in 10th (2018)"
+    }
+  ],
+  "certifications": [
+    "Python – IBM SkillsBuild",
+    "Rajasthan State Certificate in Information Technology - Vardhman Mahaveer Open University, Kota"
+  ],
+  "achievements": [],
+  "awards": [],
+  "extra": []
+}
